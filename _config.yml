@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: MIPT-ILab
+description: MIPT Students Lab of Intel and Milandr
+google_analytics: 
+show_downloads: false
