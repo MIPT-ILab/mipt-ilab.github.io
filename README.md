@@ -12,7 +12,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 - **Computer Architecture** course is a part of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). Materials are in English, Russian narrations are also available.
 - **[Open C++ Lectures](https://github.com/MIPT-ILab/cpp-lects-rus)** by Konstantin Vladimirov. Available as slides with Russian text and as a Russian book. We host a mirror of [the official repository](https://cpp-lects-rus.sourceforge.io/).
-- **[Simulation Foundation book](https://github.com/MIPT-ILab/simbook)** by Grigory Rechistov. The book is available in Russian. We host a fork of [the official repository](https://github.com/grigory-rechistov/simbook).
+- **[„Simulation Foundations“](https://github.com/MIPT-ILab/simbook)** by Grigory Rechistov. The book is available in Russian. We host a fork of [the official repository](https://github.com/grigory-rechistov/simbook).
 
 ### Previous projects
 
