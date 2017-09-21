@@ -1,8 +1,6 @@
 ## What is MIPT-ILab
 
-We are educational organization in [Moscow Institute of Physics and Technologies](https://mipt.ru/english/) founded by [Intel](http://www.intel.com) and [Milandr](http://www.milandr.com) employees. Several projects are hosted in GitHub.
-
-[MIPT-ILab official web page](https://mipt.ru/drec/about/ilab/) on MIPT site.
+We are educational organization in [Moscow Institute of Physics and Technologies](https://mipt.ru/english/) founded by [Intel](http://www.intel.com) and [Milandr](http://www.milandr.com) employees. Several of our projects are hosted in GitHub. For more information, please check [MIPT-ILab official web page](https://mipt.ru/drec/about/ilab/) on MIPT site.
 
 ## Hosted Projects
 
