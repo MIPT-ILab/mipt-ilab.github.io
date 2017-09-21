@@ -11,7 +11,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 ### Courses and Books
 
 *This section does not describe only-Russian courses. Please, check Russian section below to get more information*
-- **Computer Architecture** course is a part of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). Materials are in English, Russian narrations are also available.
+- **Computer Architecture** course is a part of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). English course handouts are available for download.
 
 ### Previous projects
 
@@ -23,11 +23,11 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 ----
 ## О MIPT-ILab
 
-MIPT-ILab — это учебная лаборатория [Московского физико-технического института](https://mipt.ru/), занятия в которой проводят сотрудники российского офиса [Intel Corporation](http://www.intel.com) и [АО «Миландр»](http://www.milandr.com). Некоторые из наших проектов используют GitHub. Более подробная информация о деятельности лаборатории доступна [на странице лаборатории](https://mipt.ru/drec/about/ilab/) на сайте МФТИ.
+MIPT-ILab — это учебная лаборатория [Московского физико-технического института](https://mipt.ru/), занятия в которой проводят сотрудники российского офиса [Intel Corporation](http://www.intel.com) и [АО «ПКК Миландр»](http://www.milandr.ru). Некоторые из наших проектов используют GitHub. Более подробная информация о деятельности лаборатории доступна [на странице лаборатории](https://mipt.ru/drec/about/ilab/) на сайте МФТИ.
 
 ## Проекты, доступные на GitHub
 
-* Потактовая программная модель процессора **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**. Этот симулятор используется для обучения архитектуре компьютерных систем.
+* **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектуры MIPS, используемая для обучения архитектуре компьютерных систем.
 * Проекты для курса **«Internet of Things»**:
   * **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**
 
@@ -39,7 +39,7 @@ MIPT-ILab — это учебная лаборатория [Московског
 
 ### Неактивные проекты
 
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** — инструмент визуализации промежуточного представления программ компилятором в виде графов.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)** — функциональный и потактовый симулятор процессора архитектуры Mulitmedia Digital Signal Processor (MDSP).
-- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — проект по созданию MDSP-бэкенда для компилятора LLVM.
-- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** — комплиятор языка «Scheme» для архитектуры MIPS.
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент визуализации промежуточного представления программ компилятором в виде графов.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры Mulitmedia Digital Signal Processor (MDSP).
+- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию MDSP-бэкенда для компилятора LLVM.
+- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: комплиятор языка «Scheme» для архитектуры MIPS.
