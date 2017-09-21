@@ -5,7 +5,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 ## Hosted Projects
 
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS CPU used for teaching computer architecture.
-* Projects for **Internet of Things**:
+* Projects for **Internet of Things** course:
   * **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)**
 
 ### Courses and Books
