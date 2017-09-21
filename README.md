@@ -10,9 +10,8 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 ### Courses and Books
 
+*This section does not describe only-Russian courses. Please, check Russian section below to get more information*
 - **Computer Architecture** course is a part of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). Materials are in English, Russian narrations are also available.
-- **[Open C++ Lectures](https://github.com/MIPT-ILab/cpp-lects-rus)** by Konstantin Vladimirov. Available as slides with Russian text and as a Russian book. We host a mirror of [the official repository](https://cpp-lects-rus.sourceforge.io/).
-- **[„Simulation Foundations“](https://github.com/MIPT-ILab/simbook)** by Grigory Rechistov. The book is available in Russian. We host a fork of [the official repository](https://github.com/grigory-rechistov/simbook).
 
 ### Previous projects
 
@@ -20,3 +19,27 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 - **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a Multimedia Digital Signal Processor.
 - **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a LLVM backend targeted to MDSP
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the Scheme language for the MIPS architecture
+
+----
+## О MIPT-ILab
+
+MIPT-ILab — это учебная лаборатория [Московского физико-технического института](https://mipt.ru/), занятия в которой проводят сотрудники российского офиса [Intel Corporation](http://www.intel.com) и [АО «Миландр»](http://www.milandr.com). Некоторые из наших проектов используют GitHub. Более подробная информация о деятельности лаборатории доступна [на странице лаборатории](https://mipt.ru/drec/about/ilab/) на сайте МФТИ.
+
+## Проекты, доступные на GitHub
+
+* Потактовая программная модель процессора **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**. Этот симулятор используется для обучения архитектуре компьютерных систем.
+* Проекты для курса **«Internet of Things»**:
+  * **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**
+
+### Курсы и книги
+
+- Курс **«Архитектура компьютерных систем»** входит в проект [MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/). Материалы курса читаются на русском языке с использованием англоязычных презентаций.
+- **[«Открытые лекции по C++»](https://github.com/MIPT-ILab/cpp-lects-rus)** Константина Владимирова. На сайте доступны как слайды к лекциям, так и изложение курса в виде книги. Все материалы используют русский язык. Основной репозиторий расположен [на SourceForge](https://cpp-lects-rus.sourceforge.io/).
+- Книга **[«Программное моделирование вычислительных систем»](https://github.com/MIPT-ILab/simbook)** Григория Речистова. Основной репозиторий книги находится [на личной странице автора](https://github.com/grigory-rechistov/simbook).
+
+### Неактивные проекты
+
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** — инструмент визуализации промежуточного представления программ компилятором в виде графов.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)** — функциональный и потактовый симулятор процессора архитектуры Mulitmedia Digital Signal Processor (MDSP).
+- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — проект по созданию MDSP-бэкенда для компилятора LLVM.
+- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** — комплиятор языка «Scheme» для архитектуры MIPS.
