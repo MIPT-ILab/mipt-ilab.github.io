@@ -1,10 +1,10 @@
-## MIPT-ILab
+## What is MIPT-ILab
 
 We are educational organization in [Moscow Institute of Physics and Technologies](https://mipt.ru/english/) founded by [Intel](http://www.intel.com) and [Milandr](http://www.milandr.com) employees. Several projects are hosted in GitHub.
 
 [MIPT-ILab official web page](https://mipt.ru/drec/about/ilab/) on MIPT site.
 
-### Hosted Projects
+## Hosted Projects
 
 - [MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/) is a pre-silicon simulator of MIPS CPU used for teaching computer architecture.
 - Internet of Things course. [Example project](https://github.com/MIPT-ILab/intel-iot) of previous year.
