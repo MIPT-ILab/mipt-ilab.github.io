@@ -10,7 +10,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 ### Courses and Books
 
-*This section does not describe only-Russian courses. Please, check Russian section below to get more information*
+*This section does not describe Russian-language-only courses. Please, check Russian section below to get more information*
 - **Computer Architecture** course is a part of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). English course handouts are available for download.
 
 ### Previous projects
