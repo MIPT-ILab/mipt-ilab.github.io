@@ -15,7 +15,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 ### Previous projects
 
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source tool that helps you to visualize compiler-specific graphs.
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
 - **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a Multimedia Digital Signal Processor.
 - **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a LLVM backend targeted to MDSP
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the Scheme language for the MIPS architecture
@@ -39,7 +39,7 @@ MIPT-ILab — это учебная лаборатория [Московског
 
 ### Неактивные проекты
 
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент визуализации промежуточного представления программ компилятором в виде графов.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры Mulitmedia Digital Signal Processor (MDSP).
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры Mulitmedia Digital Signal Processor.
 - **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию MDSP-бэкенда для компилятора LLVM.
-- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: комплиятор языка «Scheme» для архитектуры MIPS.
+- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: компилятор языка [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) для архитектуры MIPS.
