@@ -5,7 +5,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 ## Hosted Projects
 
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS CPU used for teaching computer architecture.
-* Projects for **Internet of Things** course:
+* Projects for [**Internet of Things**](https://vk.com/club88309453) course:
   * **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)**
 
 ### Courses and Books
@@ -28,7 +28,7 @@ MIPT-ILab — это учебная лаборатория [Московског
 ## Проекты, доступные на GitHub
 
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектуры MIPS, используемая для обучения архитектуре компьютерных систем.
-* Проекты для курса **«Internet of Things»**:
+* Проекты для курса [**«Internet of Things»**](https://vk.com/club88309453):
   * **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**
 
 ### Курсы и книги
