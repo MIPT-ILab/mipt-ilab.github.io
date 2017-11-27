@@ -16,7 +16,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 ### Previous projects
 
 - **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a Multimedia Digital Signal Processor.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
 - **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
 
@@ -38,15 +38,15 @@ MIPT-ILab — это учебная лаборатория [Московског
 
 ### Учебные материалы по программному моделированию
 
-Материалы разработаны коллективом авторов под руководством Григория Речистова.
+_Материалы разработаны коллективом авторов под руководством **[Григория Речистова](https://github.com/grigory-rechistov)** и **[Евгения Юлюгина](https://github.com/yulyugin)**_
 
-- Курс **[«Основы программного моделирования»](https://github.com/MIPT-ILab/sim-lectures)**. Основной репозиторий курса находится [на личной странице автора](https://github.com/yulyugin/sim-lectures).
-- Книга **[«Программное моделирование вычислительных систем»](https://github.com/MIPT-ILab/simbook)**. Основной репозиторий книги находится [на личной странице автора](https://github.com/grigory-rechistov/simbook).
-- **[«Лабораторный практикум по программному моделированию»](https://github.com/MIPT-ILab/simlab)**. Основной репозиторий книги находится [на личной странице автора](https://github.com/grigory-rechistov/simlab).
+- Курс **[«Основы программного моделирования»](https://github.com/MIPT-ILab/sim-lectures)**
+- Книга **[«Программное моделирование вычислительных систем»](https://github.com/MIPT-ILab/simbook)**
+- **[«Лабораторный практикум по программному моделированию»](https://github.com/MIPT-ILab/simlab)**
 
 ### Неактивные проекты
 
 - **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры Mulitmedia Digital Signal Processor.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
 - **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: компилятор языка [Scheme](https://ru.wikipedia.org/wiki/Scheme) для архитектуры MIPS.
