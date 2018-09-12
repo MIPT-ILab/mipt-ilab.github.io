@@ -5,8 +5,8 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 ## Hosted Projects
 
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS CPU used for teaching computer architecture.
-  * **[MIPTSim-gdb]** is a [GNU Debugger](https://www.gnu.org/software/gdb/) fork with interactive MIPT-MIPS simulation mode.
-  * **[MIPT-MIPS-CEN64]** is a fork of [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
+  * **[MIPTSim-gdb](https://github.com/mipt-ilab/mipt-sim-gdb)** is a [GNU Debugger](https://www.gnu.org/software/gdb/) fork with interactive MIPT-MIPS simulation mode.
+  * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)** is a fork of [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
 * Projects for [**Internet of Things**](https://vk.com/club88309453) course:
   * **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)**
 
@@ -30,8 +30,8 @@ MIPT-ILab — это учебная лаборатория [Московског
 ## Проекты, доступные на GitHub
 
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектуры MIPS, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
-  * **[MIPTSim-gdb]**: форк [GNU Debugger](https://www.gnu.org/software/gdb/), использующий симулятор MIPT-MIPS в интерактивном режиме.
-  * **[MIPT-MIPS-CEN64]**: форк эмулятора [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
+  * **[MIPTSim-gdb](https://github.com/mipt-ilab/mipt-sim-gdb)**: форк [GNU Debugger](https://www.gnu.org/software/gdb/), использующий симулятор MIPT-MIPS в интерактивном режиме.
+  * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)**: форк эмулятора [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
 * Проекты для курса [**«Internet of Things»**](https://vk.com/club88309453):
   * **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**
 
