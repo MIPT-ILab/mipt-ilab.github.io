@@ -1,3 +1,5 @@
+![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
+
 ## What MIPT-ILab is
 
 We are educational organization in [Moscow Institute of Physics and Technologies](https://mipt.ru/english/) founded by [Intel](http://www.intel.com) and [Milandr](http://www.milandr.com) employees. Several of our projects are hosted in GitHub. For more information, please check [MIPT-ILab official web page](https://mipt.ru/drec/about/ilab/) on MIPT site.
@@ -23,6 +25,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
 
 ----
+![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 ## О MIPT-ILab
 
 MIPT-ILab — это учебная лаборатория [Московского физико-технического института](https://mipt.ru/), занятия в которой проводят сотрудники российского офиса [Intel Corporation](https://www.intel.ru), [АО «ПКК Миландр»](http://www.milandr.ru) и других компаний. Некоторые из образовательных проектов лаборатории используют GitHub. Более подробная информация о нашей деятельности представлена [на странице кафедры «Микропроцессорные технологии в интеллектуальных системах управления»](https://mipt.ru/drec/about/ilab/) сайта МФТИ.
