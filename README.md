@@ -16,6 +16,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 *This section does not describe Russian-language-only courses. Please, check Russian section below to get more information*
 - **Computer Architecture** and **Collaborative Software Development** courses are parts of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). English course handouts are available for download.
+- **[Digital Design](https://github.com/MIPT-ILab/digital-design)** course for 4th grade students of MIPT. English course handouts are available for download.
 
 ### Previous projects
 
@@ -41,6 +42,7 @@ MIPT-ILab — это учебная лаборатория [Московског
 ### Текущие курсы
 
 - Курсы **«Архитектура компьютерных систем»** и **«Командная разработка програмного обеспечения** входят в проект [MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/). Материалы читаются на русском языке с использованием англоязычных презентаций.
+- Курс **[цифровой схемотехникт](https://github.com/MIPT-ILab/digital-design)** Александра Титова для студентов 4 курса ФРТК МФТИ. Материалы читаются на русском языке с использованием англоязычных презентаций. 
 - **[«Открытые лекции по C++»](https://github.com/MIPT-ILab/cpp-lects-rus)** Константина Владимирова. На сайте доступны как слайды к лекциям, так и изложение курса в виде книги. Все материалы используют русский язык. Основной репозиторий расположен [на SourceForge](https://cpp-lects-rus.sourceforge.io/).
 
 ### Учебные материалы по программному моделированию
