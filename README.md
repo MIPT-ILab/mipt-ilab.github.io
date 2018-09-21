@@ -12,13 +12,13 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 * Projects for [**Internet of Things**](https://vk.com/club88309453) course:
   * **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)**
 
-### Courses and Books
+## Courses and Books
 
 *This section does not describe Russian-language-only courses. Please, check Russian section below to get more information*
 - **Computer Architecture** and **Collaborative Software Development** courses are parts of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). English course handouts are available for download.
 - **[Digital Design](https://github.com/MIPT-ILab/digital-design)** course for 4th grade students of MIPT. English course handouts are available for download.
 
-### Previous projects
+## Previous projects
 
 - **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
 - **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
@@ -39,13 +39,13 @@ MIPT-ILab — это учебная лаборатория [Московског
 * Проекты для курса [**«Internet of Things»**](https://vk.com/club88309453):
   * **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**
 
-### Текущие курсы
+## Текущие курсы
 
 - Курсы **«Архитектура компьютерных систем»** и **«Командная разработка програмного обеспечения** входят в проект [MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/). Материалы читаются на русском языке с использованием англоязычных презентаций.
-- Курс **[цифровой схемотехники](https://github.com/MIPT-ILab/digital-design)** Александра Титова для студентов 4 курса ФРТК МФТИ. Материалы читаются на русском языке с использованием англоязычных презентаций. 
+- Курс **[«Цифровая схемотехника»](https://github.com/MIPT-ILab/digital-design)** Александра Титова для студентов 4 курса ФРТК МФТИ. Материалы читаются на русском языке с использованием англоязычных презентаций. 
 - **[«Открытые лекции по C++»](https://github.com/MIPT-ILab/cpp-lects-rus)** Константина Владимирова. На сайте доступны как слайды к лекциям, так и изложение курса в виде книги. Все материалы используют русский язык. Основной репозиторий расположен [на SourceForge](https://cpp-lects-rus.sourceforge.io/).
 
-### Учебные материалы по программному моделированию
+## Учебные материалы по программному моделированию
 
 _Материалы разработаны коллективом авторов под руководством **[Григория Речистова](https://github.com/grigory-rechistov)** и **[Евгения Юлюгина](https://github.com/yulyugin)**_
 
@@ -53,7 +53,7 @@ _Материалы разработаны коллективом авторов
 - Книга **[«Программное моделирование вычислительных систем»](https://github.com/MIPT-ILab/simbook)**
 - **[«Лабораторный практикум по программному моделированию»](https://github.com/MIPT-ILab/simlab)**
 
-### Неактивные проекты
+## Неактивные проекты
 
 - **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
 - **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
