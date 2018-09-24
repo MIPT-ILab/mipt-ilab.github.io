@@ -1,5 +1,5 @@
-[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
-[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true)](https://mipt.ru/drec/)
+[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
+[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/drec.gif?raw=true)](https://mipt.ru/drec/)
 ![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 
 ## What MIPT-ILab is
@@ -28,8 +28,8 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
 
 ----
-[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-rus.jpg?raw=true)](https://mipt.ru/ru)
-[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true)](https://mipt.ru/drec/)
+[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/mipt-rus.jpg?raw=true)](https://mipt.ru/ru)
+[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/drec.gif?raw=true)](https://mipt.ru/drec/)
 ![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 
 ## О MIPT-ILab
