@@ -1,4 +1,6 @@
-![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-eng.jpg?raw=true)![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true)![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
+[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-eng.jpg?raw=true)](https://mipt.ru/en)
+[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true)](https://mipt.ru/drec/)
+![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 
 ## What MIPT-ILab is
 
@@ -26,7 +28,10 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
 
 ----
-![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-rus.jpg?raw=true)![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true)![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
+[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-rus.jpg?raw=true)](https://mipt.ru/ru)
+[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true)](https://mipt.ru/drec/)
+![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
+
 ## О MIPT-ILab
 
 MIPT-ILab — это учебная лаборатория [Московского физико-технического института](https://mipt.ru/), занятия в которой проводят сотрудники российского офиса [Intel Corporation](https://www.intel.ru), [АО «ПКК Миландр»](http://www.milandr.ru) и других компаний. Некоторые из образовательных проектов лаборатории используют GitHub. Более подробная информация о нашей деятельности представлена [на странице кафедры «Микропроцессорные технологии в интеллектуальных системах управления»](https://mipt.ru/drec/about/ilab/) сайта МФТИ.
