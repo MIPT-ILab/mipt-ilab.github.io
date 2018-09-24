@@ -1,4 +1,4 @@
-<img src="https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-eng.jpg?raw=true" height=100><img src="https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true" height=75>![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
+![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-eng.jpg?raw=true){:height=100px}![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true){:height=75px}![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 
 ## What MIPT-ILab is
 
