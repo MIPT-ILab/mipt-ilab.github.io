@@ -1,4 +1,4 @@
-[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-eng.jpg?raw=true)](https://mipt.ru/en)
+[![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
 [![](https://github.com/MIPT-ILab/mipt-ilab.github.io/blob/master/drec.gif?raw=true)](https://mipt.ru/drec/)
 ![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 
