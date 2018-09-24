@@ -54,7 +54,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 ## Courses and Books
 
-*This section does not describe Russian-language-only courses. Please, check Russian section below to get more information*
+*This section does not describe Russian-language-only courses. Please, check Russian section above to get more information*
 - **Computer Architecture** and **Collaborative Software Development** courses are parts of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). English course handouts are available for download.
 - **[Digital Design](https://github.com/MIPT-ILab/digital-design)** course for 4th grade students of MIPT. English course handouts are available for download.
 
