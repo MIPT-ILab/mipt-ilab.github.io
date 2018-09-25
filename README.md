@@ -11,8 +11,6 @@ MIPT-ILab — это учебная лаборатория [Московског
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектуры MIPS, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
   * **[MIPTSim-gdb](https://github.com/mipt-ilab/mipt-sim-gdb)**: [GNU Debugger](https://www.gnu.org/software/gdb/), использующий симулятор MIPT-MIPS в интерактивном режиме.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)**: эмулятор [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
-* Проекты для курса [**«Internet of Things»**](https://vk.com/club88309453):
-  * **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**
 
 ## Текущие курсы
 
@@ -30,10 +28,11 @@ _Материалы разработаны коллективом авторов
 
 ## Неактивные проекты
 
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
-- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
+- **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**: проект для курса [**«Internet of Things»**](https://vk.com/club88309453)
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: компилятор языка [Scheme](https://ru.wikipedia.org/wiki/Scheme) для архитектуры MIPS.
+- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
 
 ----
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
@@ -49,8 +48,6 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS CPU used for teaching computer architecture.
   * **[MIPTSim-gdb](https://github.com/mipt-ilab/mipt-sim-gdb)** is a [GNU Debugger](https://www.gnu.org/software/gdb/) fork with interactive MIPT-MIPS simulation mode.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)** is a [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
-* Projects for [**Internet of Things**](https://vk.com/club88309453) course:
-  * **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)**
 
 ## Courses and Books
 
@@ -60,7 +57,8 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 ## Previous projects
 
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
-- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
+- **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)** is a project for [**Internet of Things**](https://vk.com/club88309453) course
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
+- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
