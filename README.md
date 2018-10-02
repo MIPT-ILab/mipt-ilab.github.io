@@ -1,8 +1,8 @@
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/mipt-rus.jpg?raw=true)](https://mipt.ru)
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/drec.gif?raw=true)](https://mipt.ru/drec/)
 ![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
-[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/milandr_logo.jpg?raw=true)](https://mipt.ru/drec/about/ilab/)
 [![](https://avatars0.githubusercontent.com/u/17888862?s=100)](https://mipt.ru/drec/about/ilab/)
+[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/milandr_logo.jpg?raw=true)](https://mipt.ru/drec/about/ilab/)
 
 ## О MIPT-ILab
 
@@ -40,8 +40,8 @@ _Материалы разработаны коллективом авторов
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/drec.gif?raw=true)](https://mipt.ru/drec/)
 ![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
-[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/milandr_logo.jpg?raw=true)](https://mipt.ru/drec/about/ilab/)
 [![](https://avatars0.githubusercontent.com/u/17888862?s=100)](https://mipt.ru/drec/about/ilab/)
+[![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/milandr_logo.jpg?raw=true)](https://mipt.ru/drec/about/ilab/)
 
 ## What MIPT-ILab is
 
