@@ -11,6 +11,11 @@ MIPT-ILab — это учебная лаборатория [Московског
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектуры MIPS, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
   * **[MIPTSim-gdb](https://github.com/mipt-ilab/mipt-sim-gdb)**: [GNU Debugger](https://www.gnu.org/software/gdb/), использующий симулятор MIPT-MIPS в интерактивном режиме.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)**: эмулятор [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
+- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: компилятор языка [Scheme](https://ru.wikipedia.org/wiki/Scheme) для архитектуры MIPS.
+- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
+- **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**: проект для курса [**«Internet of Things»**](https://vk.com/club88309453)
 
 ## Текущие курсы
 
@@ -26,14 +31,6 @@ _Материалы разработаны коллективом авторов
 - Книга **[«Программное моделирование вычислительных систем»](https://github.com/MIPT-ILab/simbook)**
 - **[«Лабораторный практикум по программному моделированию»](https://github.com/MIPT-ILab/simlab)**
 
-## Неактивные проекты
-
-- **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**: проект для курса [**«Internet of Things»**](https://vk.com/club88309453)
-- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: компилятор языка [Scheme](https://ru.wikipedia.org/wiki/Scheme) для архитектуры MIPS.
-- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
-
 ----
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/drec.gif?raw=true)](https://mipt.ru/drec/)
@@ -48,17 +45,14 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 * **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS CPU used for teaching computer architecture.
   * **[MIPTSim-gdb](https://github.com/mipt-ilab/mipt-sim-gdb)** is a [GNU Debugger](https://www.gnu.org/software/gdb/) fork with interactive MIPT-MIPS simulation mode.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)** is a [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
+- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
+- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
+- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
+- **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)** is a project for [**Internet of Things**](https://vk.com/club88309453) course
 
 ## Courses and Books
 
 *This section does not describe Russian-language-only courses. Please, check Russian section above to get more information*
 - **Computer Architecture** and **Collaborative Software Development** courses are parts of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). English course handouts are available for download.
 - **[Digital Design](https://github.com/MIPT-ILab/digital-design)** course for 4th grade students of MIPT. English course handouts are available for download.
-
-## Previous projects
-
-- **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)** is a project for [**Internet of Things**](https://vk.com/club88309453) course
-- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
-- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
