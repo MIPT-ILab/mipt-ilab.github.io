@@ -8,7 +8,7 @@ MIPT-ILab — это учебная лаборатория [Московског
 
 ## Проекты, доступные на GitHub
 
-* **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектуры MIPS, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
+* **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектур MIPS и RISC-V, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)**: эмулятор [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: компилятор языка [Scheme](https://ru.wikipedia.org/wiki/Scheme) для архитектуры MIPS.
 - **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
@@ -32,7 +32,7 @@ _Материалы разработаны коллективом авторов
 
 ## Наш канал на YouTube:
 
-[YouTube MIPT-ILab Lectures](https://www.youtube.com/channel/UCYFZ2yj4FjHNyqajv-MA_zw)
+- **[YouTube MIPT-ILab Lectures](https://www.youtube.com/channel/UCYFZ2yj4FjHNyqajv-MA_zw)**
 
 ----
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
@@ -45,7 +45,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 ## Hosted Projects
 
-* **[MIPT-MIPS](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS CPU used for teaching computer architecture.
+* **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS and RISC-V CPUs used for teaching computer architecture.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)** is a [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
 - **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
@@ -61,4 +61,4 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 ## YouTube Channel:
 
-[YouTube MIPT-ILab Lectures](https://www.youtube.com/channel/UCYFZ2yj4FjHNyqajv-MA_zw)
+- **[YouTube MIPT-ILab Lectures](https://www.youtube.com/channel/UCYFZ2yj4FjHNyqajv-MA_zw)**
