@@ -30,6 +30,10 @@ _Материалы разработаны коллективом авторов
 - Книга **[«Программное моделирование вычислительных систем»](https://github.com/MIPT-ILab/simbook)**
 - **[«Лабораторный практикум по программному моделированию»](https://github.com/MIPT-ILab/simlab)**
 
+## Наш канал на YouTube:
+
+[YouTube MIPT-ILab Lectures](https://www.youtube.com/channel/UCYFZ2yj4FjHNyqajv-MA_zw)
+
 ----
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/mipt-eng.jpg?raw=true)](https://mipt.ru/english)
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/drec.gif?raw=true)](https://mipt.ru/drec/)
@@ -54,3 +58,7 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 *This section does not describe Russian-language-only courses. Please, check Russian section above to get more information*
 - **Computer Architecture** and **Collaborative Software Development** courses are parts of [MIPT-MIPS project](https://mipt-ilab.github.io/mipt-mips/). English course handouts are available for download.
 - **[Digital Design](https://github.com/MIPT-ILab/digital-design)** course for 4th grade students of MIPT. English course handouts are available for download.
+
+## YouTube Channel:
+
+[YouTube MIPT-ILab Lectures](https://www.youtube.com/channel/UCYFZ2yj4FjHNyqajv-MA_zw)
