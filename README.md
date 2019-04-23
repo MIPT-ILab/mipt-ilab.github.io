@@ -2,7 +2,7 @@
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/drec.gif?raw=true)](https://mipt.ru/drec/)
 ![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 
-# [Анкета на собеседование](https://docs.google.com/forms/d/e/1FAIpQLSfqLMRVuGVrDdorlD9oFpjwxhyr-I3fNnlh3ooLmnNHqIrkqQ/viewform)
+# [〈 Анкета на собеседование 〉](https://docs.google.com/forms/d/e/1FAIpQLSfqLMRVuGVrDdorlD9oFpjwxhyr-I3fNnlh3ooLmnNHqIrkqQ/viewform)
 
 ## О MIPT-ILab
 
