@@ -10,10 +10,10 @@ MIPT-ILab — это учебная лаборатория [Московског
 
 * **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектур MIPS и RISC-V, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)**: эмулятор [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
-- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)**: компилятор языка [Scheme](https://ru.wikipedia.org/wiki/Scheme) для архитектуры MIPS.
-- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
+- **[MIPT Scheme compiler](https://github.com/MIPT-ILab-Compilers/mipt-scheme-compiler)**: компилятор языка [Scheme](https://ru.wikipedia.org/wiki/Scheme) для архитектуры MIPS.
+- **[LLVM-MDSP](https://github.com/MIPT-ILab-Compilers/llvm-mdsp)**: проект по созданию [LLVM](https://llvm.org/)-бэкенда для архитектуры MDSP.
 - **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
+- **[MIPT-Vis](https://github.com/MIPT-ILab-Compilers/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
 - **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**: проект для курса [**«Internet of Things»**](https://vk.com/club88309453)
 
 ## Текущие курсы
@@ -52,10 +52,10 @@ We are educational organization in [Moscow Institute of Physics and Technologies
 
 * **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS and RISC-V CPUs used for teaching computer architecture.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)** is a [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
-- **[MIPT Scheme compiler](https://github.com/MIPT-ILab/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
-- **[LLVM-MDSP](https://github.com/MIPT-ILab/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
+- **[MIPT Scheme compiler](https://github.com/MIPT-ILab-Compilers/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
+- **[LLVM-MDSP](https://github.com/MIPT-ILab-Compilers/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
 - **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
-- **[MIPT-Vis](https://github.com/MIPT-ILab/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
+- **[MIPT-Vis](https://github.com/MIPT-ILab-Compilers/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
 - **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)** is a project for [**Internet of Things**](https://vk.com/club88309453) course
 
 ## Courses and Books
