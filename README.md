@@ -2,6 +2,8 @@
 [![](https://github.com/MIPT-ILab/ca-lectures/blob/master/images/drec.gif?raw=true)](https://mipt.ru/drec/)
 ![Logo](https://avatars2.githubusercontent.com/u/13999586?s=100)
 
+# [〈 Анкета на собеседование 〉](https://docs.google.com/forms/d/e/1FAIpQLSfqLMRVuGVrDdorlD9oFpjwxhyr-I3fNnlh3ooLmnNHqIrkqQ/viewform)
+
 ## О MIPT-ILab
 
 MIPT-ILab — это учебная лаборатория [Московского физико-технического института](https://mipt.ru/), занятия в которой проводят сотрудники российского офиса [Intel Corporation](https://www.intel.ru) и [АО «ПКК Миландр»](http://www.milandr.ru). Некоторые из образовательных проектов лаборатории используют GitHub. Более подробная информация о нашей деятельности представлена [на странице кафедры «Микропроцессорные технологии в интеллектуальных системах управления»](https://mipt.ru/drec/about/ilab/) сайта МФТИ.
