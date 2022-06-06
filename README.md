@@ -6,16 +6,18 @@
 
 MIPT-ILab — это учебная лаборатория [Московского физико-технического института](https://mipt.ru/), занятия в которой проводят сотрудники кафедры микропроцессорных технологий. Некоторые из образовательных проектов лаборатории используют GitHub. Более подробная информация о нашей деятельности представлена [на странице кафедры «Микропроцессорные технологии в интеллектуальных системах управления»](https://mipt.ru/drec/about/ilab/) сайта МФТИ.
 
-## Проекты, доступные на GitHub
+## Аппаратные проекты, доступные на GitHub
 
 * **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектур MIPS и RISC-V, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)**: эмулятор [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
 - **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
+- **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**: проект для курса [**«Internet of Things»**](https://vk.com/club88309453)
+
+## Компиляторные проекты, доступные на GitHub
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab-Compilers/mipt-scheme-compiler)**: компилятор языка Scheme для архитектуры MIPS.
 - **[LLVM-MDSP](https://github.com/MIPT-ILab-Compilers/llvm-mdsp)**: имплементация LLVM-бекэнда для архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
 - **[ICDV](https://github.com/MIPT-ILab-Compilers/ICDV)**: Intel Compiler Dump Viewer.
 - **[MIPT-Vis](https://github.com/MIPT-ILab-Compilers/MIPT-Vis)**: инструмент графической визуализации промежуточного представления программ компилятором.
-- **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**: проект для курса [**«Internet of Things»**](https://vk.com/club88309453)
 
 ## Текущие курсы
 
@@ -52,16 +54,19 @@ _Материалы разработаны коллективом авторов
 We are educational organization in [Moscow Institute of Physics and Technologies](https://mipt.ru/english/).
 Several of our projects are hosted in GitHub. For more information, please check [MIPT-ILab official web page](https://mipt.ru/drec/about/ilab/) on MIPT site.
 
-## Hosted Projects
+## Hosted HW Projects
 
 * **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS and RISC-V CPUs used for teaching computer architecture.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)** is a [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
+- **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)** is a project for [**Internet of Things**](https://vk.com/club88309453) course
+
+## Hosted Compiler Projects
+
 - **[MIPT Scheme compiler](https://github.com/MIPT-ILab-Compilers/mipt-scheme-compiler)** is a compiler of the [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) language for the MIPS architecture
 - **[LLVM-MDSP](https://github.com/MIPT-ILab-Compilers/llvm-mdsp)** — implementation of a [LLVM](https://llvm.org/) backend targeted to MDSP
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
 - **[ICDV](https://github.com/MIPT-ILab-Compilers/ICDV)**: Intel Compiler Dump Viewer.
 - **[MIPT-Vis](https://github.com/MIPT-ILab-Compilers/MIPT-Vis)** is an open source visualizer of compiler-specific graphs.
-- **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)** is a project for [**Internet of Things**](https://vk.com/club88309453) course
 
 ## Courses and Books
 
