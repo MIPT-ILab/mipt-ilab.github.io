@@ -10,11 +10,11 @@ MIPT-ILab — это учебная лаборатория [Московског
 
 * **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)**: потактовая программная модель процессора архитектур MIPS и RISC-V, используемая для обучения архитектуре компьютерных систем и командной разработке программного обеспечения.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)**: эмулятор [CEN64](https://github.com/tj90241/cen64) с потактовой моделью процессора MIPT-MIPS.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
-- Проекты **студентов** курса «Теория и практика компиляции программ»
+- Проекты **студентов** курса «Основы программного моделирования»
   - **[Simics-обёртка](https://github.com/leokondrashov/simics_device)** STM32Discovery устройства, подключенного к PCI-интерфейс моделируемой машины.
   - **[Интерпретатор](https://github.com/MIPT-ILab/MLDR187_simulator)** RISC-V микроконтроллера К1986ВК025.
   - Ассемблер и несколько различных имплементаций интерпретаторов **[новой системы команд](https://github.com/ShISA-VM/ShISA-VM)**.
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)**: функциональный и потактовый симулятор процессора архитектуры [Mulitmedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
 - **[«Умный чайник»](https://github.com/MIPT-ILab/smart-kettle)**: проект для курса [**«Internet of Things»**](https://vk.com/club88309453).
 
 ## Компиляторные проекты, доступные на GitHub
@@ -63,11 +63,11 @@ Several of our projects are hosted in GitHub. For more information, please check
 
 * **[MIPT-MIPS / MIPT-V](https://mipt-ilab.github.io/mipt-mips/)** is a pre-silicon simulator of MIPS and RISC-V CPUs used for teaching computer architecture.
   * **[MIPT-MIPS-CEN64](https://github.com/mipt-ilab/cen64)** is a [CEN64](https://github.com/tj90241/cen64) emulator with MIPT-MIPS simulation core.
-- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
 - **Students'** projects for Simulation foundation lectures:
   - Interpreter-based [simulator](https://github.com/MIPT-ILab/MLDR187_simulator) of К1986ВК025 32-bit RISC-V microcontroller.
   - [Simics PCI device](https://github.com/MIPT-ILab/simics_device) that implements wrapping accesses to an STM32Discovery board, connected to Simics QSP virtual platform.
   - Assembler and several different interpreters [for the tiny new architecture](https://github.com/MIPT-ILab/ShISA-VM)
+- **[MDSP](https://github.com/MIPT-ILab/MDSP)** is a functional and performance simulator of a [Multimedia Digital Signal Processor](https://en.wikipedia.org/wiki/MDSP).
 - **[Smart Kettle](https://github.com/MIPT-ILab/smart-kettle)** is a project for [**Internet of Things**](https://vk.com/club88309453) course
 
 ## Hosted Compiler Projects
